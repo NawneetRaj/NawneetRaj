@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/NawneetRaj/NawneetRaj/blob/main/Black%20Minimalist%20Music%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nawneet Raj</h1>
 <h3 align="center">Passionate AI/ML Engineering Student.</h3>
 
